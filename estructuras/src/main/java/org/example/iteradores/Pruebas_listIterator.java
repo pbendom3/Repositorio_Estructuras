@@ -28,6 +28,8 @@ public class Pruebas_listIterator {
             }
         }
 
+
+
         System.out.println(edades);
 
 
