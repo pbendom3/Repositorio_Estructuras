@@ -119,10 +119,27 @@ public class Arbitro {
 }
 
 ````
-
+Explicación técnica...
 
 ## Programa principal AppZonaclientes
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 ## Pruebas
 
 ## Entrega
+- [x] **Código fuente**: [GitHub](https://github.com/pbendom3/ejercicios_POO_DAW/blob/main/untitled/src/main/java/dispositivos/Alexa.java)
+- [ ] **Vídeo demo**: [YouTube](www.youtube.com)
