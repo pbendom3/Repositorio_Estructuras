@@ -26,7 +26,7 @@ El programa se divide en dos partes:
 Utilizaremos Programación Orientada a Objetos (POO) y la siguiente estructura:
 
 ### Diagrama UML
-![diagrama.png](diagrama.png)
+![img/biblio.png](img/biblio.png)
 
 ## Programa principal AppZonaclientes
 
