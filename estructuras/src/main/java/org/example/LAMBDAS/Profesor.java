@@ -6,6 +6,16 @@ import lombok.Getter;
 public class Profesor {
 
     private String nombre;
+
+    @Override
+    public String toString() {
+        return "Profesor{" +
+                "nombre='" + nombre + '\'' +
+                ", asignatura='" + asignatura + '\'' +
+                ", edad=" + edad +
+                '}';
+    }
+
     private String asignatura;
     private int edad;
 
